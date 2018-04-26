@@ -1,5 +1,7 @@
 
-In this project, we developed a program that implements arithmetic with large integers, of arbitrary size.
+Developed and implemented efficient data structures that computes arithmetic operations for very big numbers.
+
+Technologies Used: Java, Eclipse
 
 The files that are included are :
 Num.java
